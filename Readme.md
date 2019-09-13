@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Евгений Кравченко](https://up.htmlacademy.ru/javascript/18/user/431669).
-* Наставник: `Неизвестно`.
+* Наставник: `Антон Попов`.
 
 ---
 
