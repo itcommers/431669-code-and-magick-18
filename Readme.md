@@ -10,7 +10,7 @@ _`.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `.travis.yml`, `p
 
 ---
 
-### Памятка
+### Памятка11
 
 #### 1. Зарегистрируйтесь на Гитхабе
 
